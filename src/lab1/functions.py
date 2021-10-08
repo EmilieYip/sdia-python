@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 benco2000 = "b"
 
 def is_unique(L):
@@ -38,6 +39,11 @@ def triangle_shape(height):
                 mot = mot+ "\n"
         return(mot)
 =======
+=======
+benco2000 = 1
+
+
+>>>>>>> 5fb105a7f479758cfd95109b31811c2f02d2e41b
 def is_unique(x):
     """Check that ``x`` has no duplicate elements.
 
